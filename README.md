@@ -5,8 +5,8 @@ Used ESP32 wroom dev.kit v.1 board.
 
 Used HomeSpan project examples.
 
-In this example implemented 2 switches controlled by 2 spanbutton, 1 dimmable led controlled by span button, 
-and fading led controlled by spanbutton.
+In this example implemented 2 switches controlled by 2 SpanButtons, 1 dimmable led controlled by SpanButton, 
+and fading led controlled by SpanButton.
 
 Added setStatusPin and setControlPin.
 
