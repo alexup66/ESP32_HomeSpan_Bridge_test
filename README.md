@@ -9,4 +9,5 @@ In this example implemented 2 switches controlled by 2 spanbutton, 1 dimmable le
 and fading led controlled by spanbutton.
 
 Added setStatusPin and setControlPin.
+
 Special thanks to Gregg E. Berman for this amazing project!
